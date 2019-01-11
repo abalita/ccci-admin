@@ -60,6 +60,12 @@ var users = [
         name:'Rivera, Godfrey',
         email:'godofuri76@gmail.com',
         avatar:'https://api.adorable.io/avatars/285/godofuri76@gmail.com'
+    },
+    {
+        id:5,
+        name:'Yango, Kris Bernard',
+        email:'blitzkris24@gmail.com',
+        avatar:'https://api.adorable.io/avatars/285/blitzkris24@gmail.com'
     }
 ]
 
